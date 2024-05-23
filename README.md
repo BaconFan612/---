@@ -32,3 +32,11 @@ Note：小组成员分别来自珠海、香港、澳门三地，所以取名Sand
 可以在此基础上查找文献内其他角色出现次数
 
 以此类推统计其他文件中相关内容出现次数
+
+# Note
+
+作业一 飞机大战：https://github.com/BaconFan612/Battle-AirPlane
+
+作业二 小猴子爱香蕉：https://github.com/BaconFan612/Monkey-Want-Banana
+
+作业三 数据分析程序：https://github.com/BaconFan612/Text-Data-Analysis
