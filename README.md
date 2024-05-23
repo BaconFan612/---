@@ -6,6 +6,8 @@
 
 <img width="315" alt="微信图片_20240523154954" src="https://github.com/BaconFan612/---/assets/168736821/6d01deae-1094-4688-8b05-aeef7911874f">
 
+<img width="174" alt="微信图片_20240523155551" src="https://github.com/BaconFan612/---/assets/168736821/a77fd57d-ba6e-47ca-a618-f95f7a70f902">
+
 "行者" or "大圣" or  "老孙" = "悟空"
 
 "师父" or "三藏" or  "长老" = "唐僧"
